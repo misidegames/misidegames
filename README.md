@@ -56,7 +56,7 @@
 
 ### [MISIDE Download Free For Mac](https://miside.shop/Download)
 
-
+![MISIDE Logo](/assets/foot.png) 
 
 
 
